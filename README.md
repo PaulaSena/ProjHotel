@@ -1,62 +1,84 @@
 # ProjHotel
 Desenvolvimento de sistema de Hotelaria em Desktop com C#, Web com Aspnet e Java para Mobile.
 
-#Protótipo
+# Protótipo
 ## Desktop
 
-####Tela de Login Desktop
-![Untitled]("ImagensTelas/Desktop/Desk1-Login.PNG")
+#### Tela de Login Desktop
+<img src="https://raw.githubusercontent.com/PaulaSena/ProjHotel/main/ImagensTelas/Desktop/Desk1-Login.PNG" title="Tela de Login Desktop" width=900 height=700 align="center">
+
 Fonte: Própria 2021
 
-####Tela Funcionário Logado Dashboard 
+#### Tela Funcionário Logado Dashboard 
 Caso de uso: Gerenciar Funcionario
-![Untitled]("ImagensTelas/Desktop/Desk2-%20Dashboard-FuncionarioGerenteLogado.PNG")
+<img src="https://raw.githubusercontent.com/PaulaSena/ProjHotel/main/ImagensTelas/Desktop/Desk2-%20Dashboard-FuncionarioGerenteLogado.PNG" title="Tela Funcionário Logado Dashboard " width=900 height=700>
 
-####Tela Funcionário Consulta
-Caso de uso: Gerenciar Funcionário - Consulta
-![Untitled]("ImagensTelas/Desktop/Desk3-FuncLogadoGerenciarFuncionarioConsulta.PNG")
+Fonte: Própria 2021
 
-####Tela Funcionário Cadastro
+
+#### Tela Funcionário Consulta
+Caso de uso: Gerenciar Funcionário - Consulta<img src="https://raw.githubusercontent.com/PaulaSena/ProjHotel/main/ImagensTelas/Desktop/Desk3-FuncLogadoGerenciarFuncionarioConsulta.PNG" title="Tela Funcionário Consulta " width=900 height=700>
+
+Fonte: Própria 2021
+
+#### Tela Funcionário Cadastro
 Caso de uso: Gerenciar Funcionário - Cadastro
-![Untitled]("ImagensTelas/Desktop/Desk4-FuncLogadoGerenciarFuncionarioCadastro.PNG")
+<img src="https://raw.githubusercontent.com/PaulaSena/ProjHotel/main/ImagensTelas/Desktop/Desk4-FuncLogadoGerenciarFuncionarioCadastro.PNG" title="Tela Funcionário Cadastro " width=900 height=700>
 
-####Tela Funcionário Atualizar
+Fonte: Própria 2021
+
+#### Tela Funcionário Atualizar
 Caso de uso: Gerenciar Funcionário - Atualizar
-![Untitled]("ImagensTelas/Desktop/Desk5-FuncLogadoGerenciarFuncionarioAtualizar.PNG")
+<img src="https://raw.githubusercontent.com/PaulaSena/ProjHotel/main/ImagensTelas/Desktop/Desk5-FuncLogadoGerenciarFuncionarioAtualizar.PNG" title="Tela Funcionário Atualizar" width=900 height=700>
+
+Fonte: Própria 2021
 
 
-####Tela Funcionário Excluir
+#### Tela Funcionário Excluir
 Caso de uso: Gerenciar Funcionário - Excluir
-![Untitled]("ImagensTelas/Desktop/Desk6-FuncLogadoGerenciarFuncionarioExcluir.PNG")
+<img src="https://raw.githubusercontent.com/PaulaSena/ProjHotel/main/ImagensTelas/Desktop/Desk6-FuncLogadoGerenciarFuncionarioExcluir.PNG" title="TTela Funcionário Excluir 1" width=900 height=700>
+<img src="https://raw.githubusercontent.com/PaulaSena/ProjHotel/main/ImagensTelas/Desktop/Desk6-FuncLogadoGerenciarFuncionarioExcluir1.PNG" title="Tela Funcionário Excluir 2" width=900 height=700>
 
-![Untitled]("ImagensTelas/Desktop/Desk6-FuncLogadoGerenciarFuncionarioExcluir1.PNG")
+Fonte: Própria 2021
 
-
-####Tela Funcionário Imprimir meus dados
+#### Tela Funcionário Imprimir meus dados
 Caso de uso: Gerenciar Funcionário - Imprimir
-![Untitled]("ImagensTelas/Desktop/Desk8-FuncLogadoGerenciarFuncionarioAtualizarImprimir.PNG")
+<img src="https://raw.githubusercontent.com/PaulaSena/ProjHotel/main/ImagensTelas/Desktop/Desk8-FuncLogadoGerenciarFuncionarioAtualizarImprimir.PNG" title="Tela Funcionário Imprimir" width=900 height=700>
 
-#Protótipo
+Fonte: Própria 2021
+
+# Protótipo
 ## WEB
 
-####Tela HOME
-![Tela HOME]("ImagensTelas/Web/Web1-Home.PNG")
+#### Tela HOME
+<img src="https://raw.githubusercontent.com/PaulaSena/ProjHotel/main/ImagensTelas/Web/Web1-Home.PNG" title="Tela HOME" width=900 height=700>
+
+Fonte: Própria 2021
 
 
-####Tela Login
+#### Tela Login
 Caso de Uso Gerenciar Login
-![Tela Login Web]("/ImagensTelas/Web/Web2-Login.PNG")
 
-####Tela Cadastro
+<img src="https://raw.githubusercontent.com/PaulaSena/ProjHotel/main/ImagensTelas/Web/Web2-Login.PNG" title="Tela Login" width=900 height=700>
+
+Fonte: Própria 2021
+
+
+#### Tela Cadastro
 Caso de Uso Gerenciar Login
-![Tela Cadastro Web]("ImagensTelas/Web/Web3-Cadastro.PNG")
+<img src="https://raw.githubusercontent.com/PaulaSena/ProjHotel/main/ImagensTelas/Web/Web3-Cadastro.PNG" title="Tela Cadastro" width=900 height=700>
+
+Fonte: Própria 2021
 
 
 
 #Protótipo
 ## Mobile
 
-####Telas
-![Telas Mobile]("ImagensTelas/Mobile/mob1.PNG")
+#### Telas
+<img src="https://raw.githubusercontent.com/PaulaSena/ProjHotel/main/ImagensTelas/Mobile/mob1.PNG" title="Tela Mobile" width=900 height=700>
+
+Fonte: Própria 2021
+
 
 
