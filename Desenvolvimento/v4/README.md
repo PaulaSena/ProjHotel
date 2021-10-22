@@ -179,6 +179,15 @@ insert into Users values ('admin','admin','Jackson','Collins','Administrator','S
 insert into Users values ('Ben','abc123456','Benjamin','Thompson','Receptionist','BenThompson@MyCompany.com')                                                         
 insert into Users values ('Kathy','abc123456','Kathrine','Smith','Accounting','KathySmith@MyCompany.com')
 
+
+-- Adicionando item a tabela
+Alter Table Products
+Add LastUpdate varchar(200) null
+
+ALTER TABLE Products ADD LastUpdate  varchar(200) NULL
+
+ALTER TABLE `products` ADD `LastUpdate` varchar(200) NULL AFTER `column_name`;
+
 select *from Users 
 
 --SELECT * FROM Users WHERE LoginName=@user and PassWord= @pass
