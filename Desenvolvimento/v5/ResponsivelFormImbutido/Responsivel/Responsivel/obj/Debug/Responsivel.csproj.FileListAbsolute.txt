@@ -1,0 +1,14 @@
+C:\Users\Paula\source\repos\Responsivel\Responsivel\bin\Debug\Responsivel.exe.config
+C:\Users\Paula\source\repos\Responsivel\Responsivel\bin\Debug\Responsivel.exe
+C:\Users\Paula\source\repos\Responsivel\Responsivel\bin\Debug\Responsivel.pdb
+C:\Users\Paula\source\repos\Responsivel\Responsivel\obj\Debug\Responsivel.csproj.AssemblyReference.cache
+C:\Users\Paula\source\repos\Responsivel\Responsivel\obj\Debug\Responsivel.FormPrincipal.resources
+C:\Users\Paula\source\repos\Responsivel\Responsivel\obj\Debug\Responsivel.Properties.Resources.resources
+C:\Users\Paula\source\repos\Responsivel\Responsivel\obj\Debug\Responsivel.csproj.GenerateResource.cache
+C:\Users\Paula\source\repos\Responsivel\Responsivel\obj\Debug\Responsivel.csproj.CoreCompileInputs.cache
+C:\Users\Paula\source\repos\Responsivel\Responsivel\obj\Debug\Responsivel.exe
+C:\Users\Paula\source\repos\Responsivel\Responsivel\obj\Debug\Responsivel.pdb
+C:\Users\Paula\source\repos\Responsivel\Responsivel\obj\Debug\Responsivel.FormDashbord.resources
+C:\Users\Paula\source\repos\Responsivel\Responsivel\obj\Debug\Responsivel.FormGFunc.resources
+C:\Users\Paula\source\repos\Responsivel\Responsivel\obj\Debug\Responsivel.FormGReserv.resources
+C:\Users\Paula\source\repos\Responsivel\Responsivel\obj\Debug\Responsivel.FormGClient.resources
