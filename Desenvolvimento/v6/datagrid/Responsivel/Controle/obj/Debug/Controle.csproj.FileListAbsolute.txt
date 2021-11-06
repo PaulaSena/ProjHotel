@@ -1,0 +1,6 @@
+C:\Users\Paula\source\repos\datagrid responsivel\datagrid\Responsivel\Controle\bin\Debug\Controle.dll
+C:\Users\Paula\source\repos\datagrid responsivel\datagrid\Responsivel\Controle\bin\Debug\Controle.pdb
+C:\Users\Paula\source\repos\datagrid responsivel\datagrid\Responsivel\Controle\obj\Debug\Controle.csproj.AssemblyReference.cache
+C:\Users\Paula\source\repos\datagrid responsivel\datagrid\Responsivel\Controle\obj\Debug\Controle.csproj.CoreCompileInputs.cache
+C:\Users\Paula\source\repos\datagrid responsivel\datagrid\Responsivel\Controle\obj\Debug\Controle.dll
+C:\Users\Paula\source\repos\datagrid responsivel\datagrid\Responsivel\Controle\obj\Debug\Controle.pdb

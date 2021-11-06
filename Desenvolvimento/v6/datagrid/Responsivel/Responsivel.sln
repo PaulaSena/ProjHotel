@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Responsivel", "Responsivel\Responsivel.csproj", "{BF5CBF15-9615-4738-81A4-30D8303D271B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{659660B2-3430-4177-8A7E-CE2FC497814B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controle", "Controle\Controle.csproj", "{C46805C9-348E-4D8E-AE94-9FCB162F6C3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF5CBF15-9615-4738-81A4-30D8303D271B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF5CBF15-9615-4738-81A4-30D8303D271B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF5CBF15-9615-4738-81A4-30D8303D271B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF5CBF15-9615-4738-81A4-30D8303D271B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{659660B2-3430-4177-8A7E-CE2FC497814B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{659660B2-3430-4177-8A7E-CE2FC497814B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{659660B2-3430-4177-8A7E-CE2FC497814B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{659660B2-3430-4177-8A7E-CE2FC497814B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C46805C9-348E-4D8E-AE94-9FCB162F6C3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C46805C9-348E-4D8E-AE94-9FCB162F6C3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C46805C9-348E-4D8E-AE94-9FCB162F6C3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C46805C9-348E-4D8E-AE94-9FCB162F6C3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24F3E0CA-745A-4800-BF51-0C5C5525A505}
+	EndGlobalSection
+EndGlobal
