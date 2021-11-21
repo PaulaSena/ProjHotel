@@ -21,7 +21,7 @@ namespace Login
         private void FrmHome_Load(object sender, EventArgs e)
         {
             CarregarDadosUser(); // Chamamdo funcao criada a baixo.
-        }  
+        }
 
         private void CarregarDadosUser() // Carregando dados do banco
         {

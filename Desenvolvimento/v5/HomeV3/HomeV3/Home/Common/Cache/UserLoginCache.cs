@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Common.Cache
+
 {  // Dados Estaticos Permanece na memoria aqui ficara dados de inicio de sessao do usuario e LGPD
     public static  class UserLoginCache   {
 
@@ -47,4 +48,15 @@ namespace Common.Cache
 
 
 	}
+}
+
+namespace Common
+{
+    public class UserLoginCache
+    {
+    }
+
+    public class FrmPrincipal
+    {
+    }
 }

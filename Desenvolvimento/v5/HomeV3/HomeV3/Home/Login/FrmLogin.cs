@@ -1,7 +1,5 @@
 ﻿using System;
-
 using Model;
-
 using System.Windows.Forms;
 using Common.Cache;
 
@@ -13,13 +11,6 @@ namespace Login
         {
 
             InitializeComponent();
-        }
-
-
-
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
         }
 
         private void btnLogar_Click(object sender, EventArgs e)
@@ -56,41 +47,8 @@ namespace Login
         }
 
           
-
-        private void lblInfo1_MouseMove(object sender, MouseEventArgs e)
-        {
-
-        }
-
-        private void lblInfo2_MouseMove(object sender, MouseEventArgs e)
-        {
-
-        }
-
-        private void FrmLogin_MouseDown(object sender, MouseEventArgs e)
-        {
-
-        }
-
-        private void txtBoxUser_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void txtBoxSenha_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void txtBoxSenha_Enter(object sender, EventArgs e)
-        {
-
-        }
-
-        private void txtBoxSenha_Leave(object sender, EventArgs e)
-        {
-
-        }
+     
+       
 
         private void btnLimpar_Click(object sender, EventArgs e)
         {
@@ -105,16 +63,7 @@ namespace Login
 
         }
 
-        private void lblMsgError_Click(object sender, EventArgs e)
-        {
-        }
-      
-
-        private void pctBoxMsgErro_Click(object sender, EventArgs e)
-        {
-
-        }
-
+       
         private void linkLblEsqSenha_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
             FrmCadastroUser frmCadastroUser = new FrmCadastroUser();
@@ -136,6 +85,8 @@ namespace Login
             if (MessageBox.Show("Deseja encerrar a aplicação? ", "Atenção",
             MessageBoxButtons.YesNo, MessageBoxIcon.Warning) == DialogResult.Yes)
                 Application.Exit(); // Fecha todo o sistema 
+
+
         }
     }
 }

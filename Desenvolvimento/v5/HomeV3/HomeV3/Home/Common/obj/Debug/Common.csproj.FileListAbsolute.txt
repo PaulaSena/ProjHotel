@@ -4,3 +4,9 @@ C:\Users\Paula\Documents\Facul\PIM3\HomeV2\Home\Common\obj\Debug\Common.csproj.A
 C:\Users\Paula\Documents\Facul\PIM3\HomeV2\Home\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
 C:\Users\Paula\Documents\Facul\PIM3\HomeV2\Home\Common\obj\Debug\Common.dll
 C:\Users\Paula\Documents\Facul\PIM3\HomeV2\Home\Common\obj\Debug\Common.pdb
+C:\Users\Paula\source\repos\ProjHotel\Desenvolvimento\v5\HomeV3\HomeV3\Home\Common\bin\Debug\Common.dll
+C:\Users\Paula\source\repos\ProjHotel\Desenvolvimento\v5\HomeV3\HomeV3\Home\Common\bin\Debug\Common.pdb
+C:\Users\Paula\source\repos\ProjHotel\Desenvolvimento\v5\HomeV3\HomeV3\Home\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\Paula\source\repos\ProjHotel\Desenvolvimento\v5\HomeV3\HomeV3\Home\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Paula\source\repos\ProjHotel\Desenvolvimento\v5\HomeV3\HomeV3\Home\Common\obj\Debug\Common.dll
+C:\Users\Paula\source\repos\ProjHotel\Desenvolvimento\v5\HomeV3\HomeV3\Home\Common\obj\Debug\Common.pdb

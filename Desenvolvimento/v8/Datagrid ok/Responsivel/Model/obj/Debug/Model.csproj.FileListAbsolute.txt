@@ -1,0 +1,11 @@
+C:\Users\Paula\source\repos\datagrid responsivel\datagrid\Responsivel\Model\bin\Debug\Model.dll
+C:\Users\Paula\source\repos\datagrid responsivel\datagrid\Responsivel\Model\bin\Debug\Model.pdb
+C:\Users\Paula\source\repos\datagrid responsivel\datagrid\Responsivel\Model\bin\Debug\Controle.dll
+C:\Users\Paula\source\repos\datagrid responsivel\datagrid\Responsivel\Model\bin\Debug\Controle.pdb
+C:\Users\Paula\source\repos\datagrid responsivel\datagrid\Responsivel\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\Paula\source\repos\datagrid responsivel\datagrid\Responsivel\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Paula\source\repos\datagrid responsivel\datagrid\Responsivel\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\Paula\source\repos\datagrid responsivel\datagrid\Responsivel\Model\obj\Debug\Model.dll
+C:\Users\Paula\source\repos\datagrid responsivel\datagrid\Responsivel\Model\obj\Debug\Model.pdb
+C:\Users\Paula\source\repos\datagrid responsivel\datagrid\Responsivel\Model\bin\Debug\Common.dll
+C:\Users\Paula\source\repos\datagrid responsivel\datagrid\Responsivel\Model\bin\Debug\Common.pdb

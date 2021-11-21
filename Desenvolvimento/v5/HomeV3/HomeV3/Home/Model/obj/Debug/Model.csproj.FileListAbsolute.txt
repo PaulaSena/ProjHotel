@@ -25,3 +25,15 @@ C:\Users\Paula\Documents\Facul\PIM3\HomeV2\Home\Model\bin\Debug\Common.pdb
 C:\Users\Paula\Documents\Facul\PIM3\HomeV2\Home\Model\bin\Debug\Controller.pdb
 C:\Users\Paula\Documents\Facul\PIM3\HomeV2\Home\Model\bin\Debug\Controller.dll.config
 C:\Users\Paula\Documents\Facul\PIM3\HomeV2\Home\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\Paula\source\repos\ProjHotel\Desenvolvimento\v5\HomeV3\HomeV3\Home\Model\bin\Debug\Model.dll
+C:\Users\Paula\source\repos\ProjHotel\Desenvolvimento\v5\HomeV3\HomeV3\Home\Model\bin\Debug\Model.pdb
+C:\Users\Paula\source\repos\ProjHotel\Desenvolvimento\v5\HomeV3\HomeV3\Home\Model\bin\Debug\Common.dll
+C:\Users\Paula\source\repos\ProjHotel\Desenvolvimento\v5\HomeV3\HomeV3\Home\Model\bin\Debug\Controller.dll
+C:\Users\Paula\source\repos\ProjHotel\Desenvolvimento\v5\HomeV3\HomeV3\Home\Model\bin\Debug\Common.pdb
+C:\Users\Paula\source\repos\ProjHotel\Desenvolvimento\v5\HomeV3\HomeV3\Home\Model\bin\Debug\Controller.pdb
+C:\Users\Paula\source\repos\ProjHotel\Desenvolvimento\v5\HomeV3\HomeV3\Home\Model\bin\Debug\Controller.dll.config
+C:\Users\Paula\source\repos\ProjHotel\Desenvolvimento\v5\HomeV3\HomeV3\Home\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\Paula\source\repos\ProjHotel\Desenvolvimento\v5\HomeV3\HomeV3\Home\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Paula\source\repos\ProjHotel\Desenvolvimento\v5\HomeV3\HomeV3\Home\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\Paula\source\repos\ProjHotel\Desenvolvimento\v5\HomeV3\HomeV3\Home\Model\obj\Debug\Model.dll
+C:\Users\Paula\source\repos\ProjHotel\Desenvolvimento\v5\HomeV3\HomeV3\Home\Model\obj\Debug\Model.pdb

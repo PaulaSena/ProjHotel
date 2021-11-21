@@ -7,8 +7,9 @@ namespace Controller
     {
 
         private readonly string conexaoString;
+       
         public ConexaoDoSql()
-        {    //conexão para a base local de vocês (conexaoSQL  DESKTOP-9J2BVIQ)
+        {    //conexão para a base local Paula (conexaoSQL  DESKTOP-9J2BVIQ)
             conexaoString = @"Data Source=DESKTOP-9J2BVIQ;Initial Catalog=MyCompany;Integrated Security=True";
         }
          protected SqlConnection GetSqlConnection()      

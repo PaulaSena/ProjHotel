@@ -136,7 +136,7 @@ namespace Login
             this.lblInfo2.Size = new System.Drawing.Size(16, 17);
             this.lblInfo2.TabIndex = 115;
             this.lblInfo2.Text = "?";
-            this.lblInfo2.MouseMove += new System.Windows.Forms.MouseEventHandler(this.lblInfo2_MouseMove);
+           
             // 
             // txtBoxSenha
             // 
@@ -148,9 +148,7 @@ namespace Login
             this.txtBoxSenha.PasswordChar = '*';
             this.txtBoxSenha.Size = new System.Drawing.Size(225, 27);
             this.txtBoxSenha.TabIndex = 114;
-            this.txtBoxSenha.Enter += new System.EventHandler(this.txtBoxSenha_Enter);
-            this.txtBoxSenha.Leave += new System.EventHandler(this.txtBoxSenha_Leave);
-            // 
+           // 
             // lblUser
             // 
             this.lblUser.AutoSize = true;
@@ -172,8 +170,7 @@ namespace Login
             this.lblInfo1.Size = new System.Drawing.Size(16, 17);
             this.lblInfo1.TabIndex = 112;
             this.lblInfo1.Text = "?";
-            this.lblInfo1.MouseMove += new System.Windows.Forms.MouseEventHandler(this.lblInfo1_MouseMove);
-            // 
+           // 
             // btnLogar
             // 
             this.btnLogar.BackColor = System.Drawing.Color.Transparent;
@@ -232,8 +229,7 @@ namespace Login
             this.lblMsgErro.TabIndex = 126;
             this.lblMsgErro.Text = "Mensagem de Erro ";
             this.lblMsgErro.Visible = false;
-            this.lblMsgErro.Click += new System.EventHandler(this.lblMsgError_Click);
-            // 
+          // 
             // pctBoxMsgErro
             // 
             this.pctBoxMsgErro.Image = ((System.Drawing.Image)(resources.GetObject("pctBoxMsgErro.Image")));
@@ -244,7 +240,6 @@ namespace Login
             this.pctBoxMsgErro.TabIndex = 127;
             this.pctBoxMsgErro.TabStop = false;
             this.pctBoxMsgErro.Visible = false;
-            this.pctBoxMsgErro.Click += new System.EventHandler(this.pctBoxMsgErro_Click);
             // 
             // pictBoxSair
             // 
@@ -286,8 +281,7 @@ namespace Login
             this.Name = "FrmLogin";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "FrmLogin";
-            this.Load += new System.EventHandler(this.Form1_Load);
-            this.MouseDown += new System.Windows.Forms.MouseEventHandler(this.FrmLogin_MouseDown);
+                    
             ((System.ComponentModel.ISupportInitialize)(this.pctbxLogo)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pctBoxMsgErro)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictBoxSair)).EndInit();
